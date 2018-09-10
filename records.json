@@ -1,0 +1,21 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi @angular/core @angular/common @angular/common/http @angular/forms @angular/router": 0,
+      "multi src/styles.css": 1,
+      "multi src/polyfills.ts": 2,
+      "multi src/main.ts": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
